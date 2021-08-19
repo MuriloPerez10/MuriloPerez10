@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/62762784/129987590-5bdefb24-1071-4909-915f-f51d1f007dfd.png)
 
 <!--
 **MuriloPerez10/MuriloPerez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
