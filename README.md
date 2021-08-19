@@ -14,7 +14,9 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
- https://media.giphy.com/media/xUNd9FOSgUDmfVZ78I/giphy.gif
+
+ 
+ <img src=" https://media.giphy.com/media/xUNd9FOSgUDmfVZ78I/giphy.gif" width="40" height="40" />
 
 ## About me
 
