@@ -18,11 +18,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=onedark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=cobalto)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=synthwave)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=highcontrast)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10&show_icons=true&theme=drácula)
-
 
 ## About me
 
