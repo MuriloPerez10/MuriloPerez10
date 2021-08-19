@@ -1,5 +1,6 @@
-# Welcome!
-(https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif)
+# Murilo Perez!
+
+![Alt Text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif)
 
 :computer: I'm Front-End Developer!
 
