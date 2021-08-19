@@ -15,8 +15,11 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
- 
- <img src=" https://media.giphy.com/media/cKKilkePjBAh0tbmBU/giphy.gif" width="40" height="40" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloPerez10)](https://github.com/anuraghazra/github-readme-stats)
+
+cartao
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ## About me
 
