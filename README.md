@@ -1,10 +1,5 @@
 # Welcome!
-
- 
-
-## I'm (SEU NOME)!
-
- 
+(https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif)
 
 :computer: I'm Front-End Developer!
 
