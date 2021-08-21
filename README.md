@@ -11,7 +11,7 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-# Connect with me:
+### Connect with me:
 <a href="www.linkedin.com/in/murilo-perez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muriloperez" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="#" height="30" width="40" /></a>
 
