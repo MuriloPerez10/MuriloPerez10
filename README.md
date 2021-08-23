@@ -1,10 +1,10 @@
 # Murilo Perez!
 
 <h3 align="center">A passionate about software development and UI / UX design.
-</h3><center><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50px">
+</h3><center><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px">
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> front-end developer
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> Always thinking of something crazy to develop
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="20vw" /> front-end developer
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Always thinking of something crazy to develop
 
 ## Connect with me:
 <a href="www.linkedin.com/in/murilo-perez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muriloperez" height="30" width="40" /></a>
