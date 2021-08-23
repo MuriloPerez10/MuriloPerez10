@@ -1,7 +1,7 @@
 # Murilo Perez!
 
-<h3 align="center">A passionate about software development and UI / UX design.
-</h3><center><img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px">
+<h3 align="center">A passionate about software development and UI / UX design.</h3>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px" aling="center">
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/gandalf_parrot.gif" width="20vw" /> front-end developer
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Always thinking of something crazy to develop
