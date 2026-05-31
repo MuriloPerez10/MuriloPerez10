@@ -5,8 +5,7 @@
 *"Security is not a product, but a process." — Bruce Schneier*
 
 **Information Security Professional | Defensive Cyber Security | Infrastructure & Cloud**
-
-<img width="600" height="1533" alt="52043e4b6f286379abb01e672ebf18c8" src="https://github.com/user-attachments/assets/c4936271-84e8-4e38-b381-66e8fc7b9374" width="400" alt="Cybersecurity Animation" />
+<img src="https://github.com/user-attachments/assets/c4936271-84e8-4e38-b381-66e8fc7b9374" width="450" alt="Cybersecurity Artwork" />
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-YOUR__USERNAME-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_USERNAME)
 
