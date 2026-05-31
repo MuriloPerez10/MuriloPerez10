@@ -6,7 +6,7 @@
 
 **Information Security Professional | Defensive Cyber Security | Infrastructure & Cloud**
 
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400" alt="Cybersecurity Animation">
+<img width="600" height="1533" alt="52043e4b6f286379abb01e672ebf18c8" src="https://github.com/user-attachments/assets/c4936271-84e8-4e38-b381-66e8fc7b9374" width="400" alt="Cybersecurity Animation" />
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-YOUR__USERNAME-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_USERNAME)
 
@@ -31,5 +31,6 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-004A8F?style=for-the-badge&logo=fortinet&logoColor=white)
