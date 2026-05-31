@@ -7,7 +7,9 @@
 **Information Security Professional | Defensive Cyber Security | Infrastructure & Cloud**
 <img src="https://github.com/user-attachments/assets/c4936271-84e8-4e38-b381-66e8fc7b9374" width="450" alt="Cybersecurity Artwork" />
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-YOUR__USERNAME-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ghost1048-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Ghost1048)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-YOUR_HTB_ID-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/019e7ecd-d578-700d-82cb-1f5cd6bf1337)
+
 
 </div>
 
@@ -33,3 +35,4 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-004A8F?style=for-the-badge&logo=fortinet&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
